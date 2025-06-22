@@ -1,5 +1,8 @@
 # 🛡️ HIPAA-Compliant Serverless Cloud Infrastructure on AWS
 
+**Author:** Mohamed Mohamed  
+**Email:** mohamed0395@gmail.com
+
 This project demonstrates a fully automated, secure, and compliance-aligned healthcare application infrastructure on AWS, using **Terraform**, **Lambda**, **API Gateway**, and **AWS-native security services**. It's purpose-built to meet **HIPAA**, **NIST 800-53**, and **CIS Benchmark** standards.
 
 ---
