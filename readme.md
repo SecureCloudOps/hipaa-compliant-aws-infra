@@ -1,4 +1,15 @@
 # 🛡️ HIPAA-Compliant Serverless Cloud Infrastructure on AWS
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Serverless-AWS%20Lambda-informational?style=flat-square&logo=awslambda" />
+  <img src="https://img.shields.io/badge/API%20Gateway-Secure-success?style=flat-square&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Infrastructure-Terraform-purple?style=flat-square&logo=terraform" />
+  <img src="https://img.shields.io/badge/Compliance-HIPAA-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-CIS%20Benchmark-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Standards-NIST%20800--53-informational?style=flat-square" />
+
+</p>
+
 
 **Author:** Mohamed Mohamed  
 **Email:** mohamed0395@gmail.com
